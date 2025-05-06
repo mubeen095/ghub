@@ -12,7 +12,7 @@ export const PROGRAMDATA = [
     color: "rgb(22, 183, 81)",
     changeColor:"rgb(255, 99, 55)",
     program: {
-      title: "Artificial Intelligence Placement Guarantee Course Details",
+      title: "Artificial Intelligence Placement Guarantee Details",
       color: "rgb(22, 183, 81)",
     },
     CURRICULUM: [
@@ -87,7 +87,7 @@ export const PROGRAMDATA = [
     changeColor:"rgb(22, 183, 81)",
     program: {
       title:
-        "Cyber Security with Ethical Hacking Placement Guarantee Course Details",
+        "Cyber Security with Ethical Hacking Placement  Course Details",
       color: "rgb(22, 183, 81)",
     },
     CURRICULUM: [
@@ -131,7 +131,7 @@ export const PROGRAMDATA = [
   },
   {
     title: "COMPUTER SCIENCE",
-    heading: "Data Science Course ",
+    heading: "Data Science ",
     trainedBy: ["/image/program/Computer/hipla_logo.svg"],
     price: "₹50,000",
     banner: "/image/program/Computer/programm_banner3.png",
@@ -139,7 +139,7 @@ export const PROGRAMDATA = [
     color: "rgb(22, 183, 81)",
     changeColor:"rgb(22, 183, 81)",
     program: {
-      title: "Data Science Placement Guarantee Course Details",
+      title: "Data Science Placement Guarantee  Details",
       color: "rgb(22, 183, 81)",
     },
     CURRICULUM: [
@@ -155,7 +155,7 @@ export const PROGRAMDATA = [
   },
   {
     title: "COMPUTER SCIENCE",
-    heading: "Machine Learning Course ",
+    heading: "Machine Learning  ",
     trainedBy: ["/image/program/Computer/hipla_logo.svg"],
     price: "₹36,000",
     banner: "/image/program/Computer/programm_banner4.png",
@@ -163,7 +163,7 @@ export const PROGRAMDATA = [
     color: "rgb(22, 183, 81)",
     changeColor:'rgb(22, 183, 81)',
     program: {
-      title: "Machine Learning Placement Guarantee Course Details",
+      title: "Machine Learning Placement Guarantee Details",
       color: "rgb(22, 183, 81)",
     },
     CURRICULUM: [
@@ -211,7 +211,7 @@ export const PROGRAMDATA = [
   },
   {
     title: "COMPUTER SCIENCE",
-    heading: "Web Development Course",
+    heading: "Web Development ",
     trainedBy: ["/image/program/Computer/hipla_logo.svg"],
     price: "₹28,000",
     banner: "/image/program/Computer/programm_banner5.png",
@@ -219,7 +219,7 @@ export const PROGRAMDATA = [
     color: "rgb(22, 183, 81)",
     changeColor:"rgb(255, 99, 55)",
     program: {
-      title: "Web Development Placement Guarantee Course Details",
+      title: "Web Development Placement  Course Details",
       color: "rgb(22, 183, 81)",
     },
     CURRICULUM: [
@@ -299,7 +299,7 @@ export const PROGRAMDATA = [
     color: "rgb(22, 183, 81)",
     changeColor:"rgb(22, 183, 81)",
     program: {
-      title: "Internet of Things & Robotics Placement Guarantee Course Details",
+      title: "Internet of Things & Robotics Placement Course Details",
       color: "rgb(22, 183, 81)",
     },
     CURRICULUM: [
@@ -375,7 +375,7 @@ export const PROGRAMDATA = [
     color: "rgb(22, 183, 81)",
     changeColor:"rgb(22, 183, 81)",
     program: {
-      title: "AutoCAD Placement Guarantee Course Details",
+      title: "AutoCAD Placement  Course Details",
       color: "rgb(22, 183, 81)",
     },
     CURRICULUM: [
